@@ -1,0 +1,21 @@
+        
+        /* selector{
+            property : value ;
+        } */
+        h1{
+            color: red;
+        }
+
+        h2{
+            color: blue;
+        }
+
+        #yo{
+            color: pink;
+            font-family: 'Bonbon', cursive;
+            font-size : 40xpx;
+        }
+
+        .text{
+            text-align: right;
+        }

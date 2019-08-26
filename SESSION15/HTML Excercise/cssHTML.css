@@ -1,0 +1,142 @@
+.text{
+    text-align: center; 
+    font-family: 'Hanalei', cursive;
+    font-size: 140px;
+    letter-spacing: 4px
+}
+
+h1{
+    text-align: center; 
+    font-family: 'Hanalei', cursive;
+    font-size: 200px;
+    line-height: 7px;
+}
+
+.a{
+    text-decoration-line: underline;
+    color: blue;
+    margin: 1px 30px 1px;
+}
+
+.b{
+    color:blue;
+    text-decoration-line: underline;
+    line-height: 20px;
+}
+
+#What{
+    line-height: 60px;
+    font-size: 18px
+}
+
+#For{
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 20px
+}
+
+u{
+    color: blue;
+    line-height: 60px;
+}
+
+#art{
+    margin: 10px 60px;
+}
+
+#Oliver{
+    margin: 10px 60px;
+}
+
+#i{
+    margin: 10px 60px;
+    font-size: 12px;
+}
+
+#N{
+    font-size: 17px;
+}
+
+.d{
+    margin: 1px 60px 1px;
+    
+}
+
+.e{
+    margin: 20px 0px 20px;
+}
+
+#M{
+    font-weight:bold;
+    font-size: 22px;
+}
+
+.j{
+    margin: 5px 0px 0px 60px;
+}
+
+.h{
+    margin: 0px 0px 25px 60px
+}
+
+#The{
+    text-decoration-line: underline;
+    margin: 17px 0px 25px 60px;
+    color: blue;
+}
+
+c{
+    margin: 17px 0px 40px 60px;
+}
+
+k{
+    text-decoration-line: underline;
+    color:blue;
+}
+
+#s{
+    margin: 10px 0px 0px 60px;
+}
+
+#y{
+    margin: 0px 0px 25px 60px
+}
+
+#you{
+    text-decoration-line: underline;
+    color: blue;
+    margin: 17px 0px 25px 60px;
+}
+
+o{
+    margin: 17px 0px 40px 60px;
+}
+
+l{
+    text-decoration-line: underline;
+    color:blue;
+}
+
+#hg{
+    margin: 10px 0px 0px 60px;
+}
+
+#io{
+    margin: 0px 0px 25px 60px
+}
+
+#po{
+    text-decoration-line: underline;
+    color: blue;
+    margin: 17px 0px 25px 60px;
+}
+
+n{
+    margin: 17px 0px 40px 60px;
+}
+
+me{
+    text-decoration-line: underline;
+    color:blue;
+}
+
